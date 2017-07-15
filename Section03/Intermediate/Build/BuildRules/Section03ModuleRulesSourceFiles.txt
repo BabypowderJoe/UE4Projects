@@ -1,3 +1,0 @@
-C:\Users\joseph.sozio\Documents\UE4Projects\Section03\Source\Section03\Section03.Build.cs
-C:\Users\joseph.sozio\Documents\UE4Projects\Section03\Source\Section03.Target.cs
-C:\Users\joseph.sozio\Documents\UE4Projects\Section03\Source\Section03Editor.Target.cs
