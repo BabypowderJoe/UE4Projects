@@ -36,6 +36,11 @@
 *.sdf
 *.sln
 
+# VSS temp files
+*.opendb
+*.db
+*.pdb
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
@@ -70,4 +75,6 @@ BuildingEscape/Content/StarterContent
 *.swo
 .ctrlp_cache/
 
+# VSS temp files
+*.opendb
 *.db
